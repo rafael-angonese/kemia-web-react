@@ -1,9 +1,9 @@
 <p align="center">
-  <img alt="preview1" src=".github/preview1.png" width="100%">
+  <img alt="preview1" src=".github/preview1.PNG" width="100%">
 </p>
 
 <p align="center">
-  <img alt="preview2" src=".github/preview2.png" width="100%">
+  <img alt="preview2" src=".github/preview2.PNG" width="100%">
 </p>
 
 
